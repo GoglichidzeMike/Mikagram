@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/GoglichidzeMike/Mikagram/static/css/main.ae4add26.chunk.css",
-    "main.js": "/GoglichidzeMike/Mikagram/static/js/main.5354aaa6.chunk.js",
-    "main.js.map": "/GoglichidzeMike/Mikagram/static/js/main.5354aaa6.chunk.js.map",
-    "runtime-main.js": "/GoglichidzeMike/Mikagram/static/js/runtime-main.46b09cf4.js",
-    "runtime-main.js.map": "/GoglichidzeMike/Mikagram/static/js/runtime-main.46b09cf4.js.map",
-    "static/js/2.b53e2525.chunk.js": "/GoglichidzeMike/Mikagram/static/js/2.b53e2525.chunk.js",
-    "static/js/2.b53e2525.chunk.js.map": "/GoglichidzeMike/Mikagram/static/js/2.b53e2525.chunk.js.map",
-    "index.html": "/GoglichidzeMike/Mikagram/index.html",
-    "precache-manifest.a307c6f2d14ca612fb25e45472a114ae.js": "/GoglichidzeMike/Mikagram/precache-manifest.a307c6f2d14ca612fb25e45472a114ae.js",
-    "service-worker.js": "/GoglichidzeMike/Mikagram/service-worker.js",
-    "static/css/main.ae4add26.chunk.css.map": "/GoglichidzeMike/Mikagram/static/css/main.ae4add26.chunk.css.map",
-    "static/js/2.b53e2525.chunk.js.LICENSE.txt": "/GoglichidzeMike/Mikagram/static/js/2.b53e2525.chunk.js.LICENSE.txt"
+    "main.css": "/GoglichidzeMike/mikagram/static/css/main.ae4add26.chunk.css",
+    "main.js": "/GoglichidzeMike/mikagram/static/js/main.5354aaa6.chunk.js",
+    "main.js.map": "/GoglichidzeMike/mikagram/static/js/main.5354aaa6.chunk.js.map",
+    "runtime-main.js": "/GoglichidzeMike/mikagram/static/js/runtime-main.9959e804.js",
+    "runtime-main.js.map": "/GoglichidzeMike/mikagram/static/js/runtime-main.9959e804.js.map",
+    "static/js/2.50aa027d.chunk.js": "/GoglichidzeMike/mikagram/static/js/2.50aa027d.chunk.js",
+    "static/js/2.50aa027d.chunk.js.map": "/GoglichidzeMike/mikagram/static/js/2.50aa027d.chunk.js.map",
+    "index.html": "/GoglichidzeMike/mikagram/index.html",
+    "precache-manifest.026cd331171fd8785deeb67a70ee1adc.js": "/GoglichidzeMike/mikagram/precache-manifest.026cd331171fd8785deeb67a70ee1adc.js",
+    "service-worker.js": "/GoglichidzeMike/mikagram/service-worker.js",
+    "static/css/main.ae4add26.chunk.css.map": "/GoglichidzeMike/mikagram/static/css/main.ae4add26.chunk.css.map",
+    "static/js/2.50aa027d.chunk.js.LICENSE.txt": "/GoglichidzeMike/mikagram/static/js/2.50aa027d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.46b09cf4.js",
-    "static/js/2.b53e2525.chunk.js",
+    "static/js/runtime-main.9959e804.js",
+    "static/js/2.50aa027d.chunk.js",
     "static/css/main.ae4add26.chunk.css",
     "static/js/main.5354aaa6.chunk.js"
   ]
