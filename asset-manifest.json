@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/GoglichidzeMike/mikagram/static/css/main.ae4add26.chunk.css",
-    "main.js": "/GoglichidzeMike/mikagram/static/js/main.5354aaa6.chunk.js",
-    "main.js.map": "/GoglichidzeMike/mikagram/static/js/main.5354aaa6.chunk.js.map",
-    "runtime-main.js": "/GoglichidzeMike/mikagram/static/js/runtime-main.9959e804.js",
-    "runtime-main.js.map": "/GoglichidzeMike/mikagram/static/js/runtime-main.9959e804.js.map",
-    "static/js/2.50aa027d.chunk.js": "/GoglichidzeMike/mikagram/static/js/2.50aa027d.chunk.js",
-    "static/js/2.50aa027d.chunk.js.map": "/GoglichidzeMike/mikagram/static/js/2.50aa027d.chunk.js.map",
-    "index.html": "/GoglichidzeMike/mikagram/index.html",
-    "precache-manifest.026cd331171fd8785deeb67a70ee1adc.js": "/GoglichidzeMike/mikagram/precache-manifest.026cd331171fd8785deeb67a70ee1adc.js",
-    "service-worker.js": "/GoglichidzeMike/mikagram/service-worker.js",
-    "static/css/main.ae4add26.chunk.css.map": "/GoglichidzeMike/mikagram/static/css/main.ae4add26.chunk.css.map",
-    "static/js/2.50aa027d.chunk.js.LICENSE.txt": "/GoglichidzeMike/mikagram/static/js/2.50aa027d.chunk.js.LICENSE.txt"
+    "main.css": "/mikagram/static/css/main.ae4add26.chunk.css",
+    "main.js": "/mikagram/static/js/main.5354aaa6.chunk.js",
+    "main.js.map": "/mikagram/static/js/main.5354aaa6.chunk.js.map",
+    "runtime-main.js": "/mikagram/static/js/runtime-main.c89eb0db.js",
+    "runtime-main.js.map": "/mikagram/static/js/runtime-main.c89eb0db.js.map",
+    "static/js/2.411fea1e.chunk.js": "/mikagram/static/js/2.411fea1e.chunk.js",
+    "static/js/2.411fea1e.chunk.js.map": "/mikagram/static/js/2.411fea1e.chunk.js.map",
+    "index.html": "/mikagram/index.html",
+    "precache-manifest.39cfad6ee3a96871c147058a32962734.js": "/mikagram/precache-manifest.39cfad6ee3a96871c147058a32962734.js",
+    "service-worker.js": "/mikagram/service-worker.js",
+    "static/css/main.ae4add26.chunk.css.map": "/mikagram/static/css/main.ae4add26.chunk.css.map",
+    "static/js/2.411fea1e.chunk.js.LICENSE.txt": "/mikagram/static/js/2.411fea1e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.9959e804.js",
-    "static/js/2.50aa027d.chunk.js",
+    "static/js/runtime-main.c89eb0db.js",
+    "static/js/2.411fea1e.chunk.js",
     "static/css/main.ae4add26.chunk.css",
     "static/js/main.5354aaa6.chunk.js"
   ]
